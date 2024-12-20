@@ -86,10 +86,6 @@ img{
     transition: transform 0.3s ease;
 }
 
-.project:hover img {
-    transform: scale(1.05);
-}
-
 .text {
     padding: 16px 0;
 }
@@ -123,7 +119,6 @@ img{
     color: #666666;
     font-size: 16px;
 }
-
 
 .otp {
     margin: 40px 0;
